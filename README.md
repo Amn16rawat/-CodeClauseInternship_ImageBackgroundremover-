@@ -7,7 +7,7 @@ This is a simple web application that uses the Remove.bg API to remove the backg
 
 1. Clone the repository:
 
-git clone https://github.com/thakurdiwakar/CodeClause_Image-Background-Remover.git
+git clone https://github.com/Amn16rawat/-CodeClauseInternship_ImageBackgroundremover-
 
 
 

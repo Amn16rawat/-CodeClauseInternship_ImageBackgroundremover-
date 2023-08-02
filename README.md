@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Credits
 
-This project was created by [Aman Singh Rawat](https://github.com/thakurdiwakar).
+This project was created by [Aman Singh Rawat](https://github.com/Amn16rawat).
